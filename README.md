@@ -65,3 +65,12 @@ o	Under it, The dishes available near you will be displayed.
 
 <img width="946" height="766" alt="image" src="https://github.com/user-attachments/assets/ad9e743c-fe91-431e-bf53-cbe2379ddb70" />
 
+Setup the Frontend and Backend URL
+
+-App.jsx in Admin folder const url = YOUR_BACKEND_URL
+
+-StoreContext.js in Frontend folder const url = YOUR_BACKEND_URL
+
+-orderController in Backend folder const frontend_url = YOUR_FRONTEND_URL
+    
+
